@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/1.png">
+<img src="https://github.com/mahmoud-elbouyahyaoui/Face-C-/blob/master/images/1.PNG?raw=true">
 
 This is a basic project of a big project . 
 
