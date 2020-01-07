@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/mahmoud-elbouyahyaoui/Face-C-/">
-    <img src="images/1.png" alt="Logo" width="80" height="80">
+    <img src="https://d1t0xk6rn1avc6.cloudfront.net/wp-content/uploads/facial-750x450.jpg" alt="Logo"  >
   </a>
 
   <h3 align="center">Face Detector</h3>
