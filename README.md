@@ -19,10 +19,10 @@
   <p align="center">
     Detect Faces With Cam
     <br />
-    <a href="https://github.com/mahmoud-elbouyahyaoui/Face-C-/repo"><strong>Explore the docs »</strong></a>
+    <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/mahmoud-elbouyahyaoui/Face-C-/repo">View Demo</a
+    <a href="#">View Demo</a
     ·
     <a href="https://github.com/mahmoud-elbouyahyaoui/Face-C-/repo/issues">Report Bug</a>
     ·
