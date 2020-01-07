@@ -11,18 +11,18 @@
 <br />
 <p align="center">
   <a href="https://github.com/mahmoud-elbouyahyaoui/Face-C-/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/1.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Face Detector</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Detect Faces With Cam
     <br />
     <a href="https://github.com/mahmoud-elbouyahyaoui/Face-C-/repo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/mahmoud-elbouyahyaoui/Face-C-/repo">View Demo</a>
+    <a href="https://github.com/mahmoud-elbouyahyaoui/Face-C-/repo">View Demo</a
     ·
     <a href="https://github.com/mahmoud-elbouyahyaoui/Face-C-/repo/issues">Report Bug</a>
     ·
@@ -36,17 +36,13 @@
 
 <img src="images/1.png">
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
-
+This is a basic project of a big project . 
 
 ### Built With
 
-* []()
-* []()
-* [](
-
+* [visual studio]()
+* [c#]()
+* [EMGU CV]()
 
 
 <!-- LICENSE -->
@@ -59,9 +55,12 @@ Here's a blank template to get started:
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Name - Mahmoud El Bouyahyaoui
 
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
+Contact Me : [FACEBOOK](https://facebook.com/mahmoud.elbouyahyaoui/)
+             [EMAIL](marketingx2014@gmail.com)
+
+
 
 
 
